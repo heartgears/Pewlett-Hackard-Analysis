@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview
-The purpose of this analysis was to determine the number and types of employees at Pewlett Hackard who are up for retirement , as well as to determine eligibility for a new mentorship program.
+The purpose of this analysis was to determine the number and types of employees at Pewlett Hackard who are up for retirement, as well as to determine eligibility for a new mentorship program.
 
 ## Results
 Some key takeaways:
