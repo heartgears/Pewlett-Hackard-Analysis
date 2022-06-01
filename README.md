@@ -10,9 +10,9 @@ Some key takeaways:
   3. Most of these above staff members hold senior positions - only a handful hold lower level positions.
   4. Approximately 1,550 employees are eligible for the new mentorship program.
 
-!Retiring_Staff(retiring_titles.png)
+![Retiring_Staff](retiring_titles.png)
 
 ## Summary
 Tens of thousands of roles will need to be filled as those born between 1952 and 1955 begin to retire. The mentorship program only has around 1,550 eligible candidates, not guranteed mentors. These factors pose a challenge to the company, and that should be addressed sooner rather than later.
 
-!Mentorship_Staff(mentorship_eligibility.png)
+![Mentorship_Staff](mentorship_eligibility.png)
